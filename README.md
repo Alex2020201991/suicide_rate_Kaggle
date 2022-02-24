@@ -4,5 +4,7 @@
 
 **In this project we used data visualization and machine learning (Linear regression, Random forest, XGBooster).**
 
+**Kaggle** **link** - **https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016**
 
-![Brown-County-Suicide-Rates](https://user-images.githubusercontent.com/73969654/155430602-7bd5caca-dc13-4ab4-be73-6de45f9a77ba.jpg)
+
+![Brown-County-Suicide-Rates](https://user-images.githubusercontent.com/73969654/155431157-782591d0-e25e-4b3f-ba5e-4c8893c659be.jpg)
