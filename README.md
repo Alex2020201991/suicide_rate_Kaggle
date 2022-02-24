@@ -7,4 +7,4 @@
 **Kaggle** **link** - **https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016**
 
 
-![Brown-County-Suicide-Rates](https://user-images.githubusercontent.com/73969654/155431157-782591d0-e25e-4b3f-ba5e-4c8893c659be.jpg)
+![Brown-County-Suicide-Rates](https://user-images.githubusercontent.com/73969654/155431282-276c50dc-4362-40c9-a00d-158df72e6c5c.jpg)
